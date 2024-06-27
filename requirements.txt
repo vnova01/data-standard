@@ -45,7 +45,7 @@ jsonpointer==2.2
     #   sphinxcontrib-opendataservices-jsonschema
 jsonref==0.2
     # via sphinxcontrib-opendataservices-jsonschema
-markdown-it-py==2.0.1
+markdown-it-py==2.2.0
     # via
     #   mdit-py-plugins
     #   myst-parser
