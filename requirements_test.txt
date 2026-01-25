@@ -196,7 +196,7 @@ urllib3==1.26.4
     #   -r requirements.in
     #   requests
     #   transifex-client
-wheel==0.37.1
+wheel==0.46.2
     # via pip-tools
 
 # The following packages are considered to be unsafe in a requirements file:
